@@ -1,0 +1,2 @@
+CMD echo red
+
